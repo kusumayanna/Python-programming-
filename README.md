@@ -41,9 +41,6 @@ This notebook is designed for:
 ## Contribution
 Contributions are welcome! If you would like to improve this notebook or add more topics, feel free to fork the repository, make changes, and submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For any questions or suggestions, feel free to reach out:
 - Email: yannakusuma5@gmail.com
